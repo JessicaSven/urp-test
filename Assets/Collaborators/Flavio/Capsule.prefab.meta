@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Collaborators/Flavio/Capsule.prefab.meta
 guid: b10bca6cf7fa9044ab228fb37581fd71
 PrefabImporter:
+========
+guid: d1c3109bdb54ad54c8a2b2838528e640
+DefaultImporter:
+>>>>>>>> main:Assets/Scenes/SampleScene.unity.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
