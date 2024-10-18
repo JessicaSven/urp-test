@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Bowling Assets/Prefabs/Ball 1.prefab.meta
 guid: 6b67c53e3186a6e4aad932c2933ce575
+========
+guid: cdbdbcb6aa207c8479f16306105541eb
+>>>>>>>> Menu:Assets/Collaborators/Darius/Stud Frame.prefab.meta
 PrefabImporter:
   externalObjects: {}
   userData: 
